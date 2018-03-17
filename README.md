@@ -4,5 +4,6 @@ Live Search GET Request (Retrofit2)
 > extract SERVER.zip to your host (htdocs)
 > upload users.sql to your database (phpmyadmin)
 
-instagram @haerulmuttaqin.id
-facebook Haerul Muttaqin (fb.com/iunkrool)
+My Social Media
+* instagram : https://www.instagram.com/haerulmuttaqin.id/ 
+* facebook : https://www.fb.com/iunkrool/ 
